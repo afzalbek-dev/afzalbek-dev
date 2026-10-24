@@ -25,6 +25,7 @@ Salom! Men Afzalbek — yuqori yuklamali Telegram botlar, Telegram WebApp mini-i
 
 | Mahsulot | Yo‘nalish | Texnologiya | Holati | Xarid qilish / Aloqa |
 | :--- | :--- | :--- | :---: | :---: |
+| 🔥 **TeleShop AI** | Telegram Mini App Do'kon & E-Commerce (Yulduzlar & Click/Payme) | HTML5 / CSS3 / Vanilla JS | ⚡ Trend 2026 | [🌐 Jonli Demo](https://afzalbek-dev.github.io/teleshop-tma/) \| [👉 Gumroad (9)](https://gumroad.com) \| [Telegram](https://t.me/Obunachi786) |
 | 💼 **TEZish WebApp** | Kunlik ishlar & xizmatlar birjasi (MVP) | HTML5 / CSS3 / Vanilla JS | ⚡ Tayyor | [🌐 Jonli Demo](https://afzalbek-dev.github.io/tezish-webapp/) \| [👉 Gumroad (9)](https://gumroad.com) \| [Telegram](https://t.me/Obunachi786) |
 | 🎬 **Kino Bot Pro** | Filmlar qidiruvi, VIP obuna & avto-to‘lov | Python / Aiogram / SQLite | ⚡ Tayyor | [👉 Repozitoriy](https://github.com/afzalbek-dev/kino-bot) \| [Buyurtma](https://t.me/Obunachi786) |
 | 👑 **VIP Subscription Bot** | Kanal/guruh obunalarini boshqarish & Click/Payme | Python / Aiogram / Payments | ⚡ Tayyor | [👉 Repozitoriy](https://github.com/afzalbek-dev/vip-subscription-bot) \| [Buyurtma](https://t.me/Obunachi786) |
