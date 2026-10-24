@@ -25,7 +25,7 @@ Salom! Men Afzalbek — yuqori yuklamali Telegram botlar, Telegram WebApp mini-i
 
 | Mahsulot | Yo‘nalish | Texnologiya | Holati | Xarid qilish / Aloqa |
 | :--- | :--- | :--- | :---: | :---: |
-| 💼 **TEZish WebApp** | Kunlik ishlar & xizmatlar birjasi (MVP) | HTML5 / CSS3 / Vanilla JS | ⚡ Tayyor | [👉 Gumroad ($29)](https://gumroad.com) \| [Telegram](https://t.me/Obunachi786) |
+| 💼 **TEZish WebApp** | Kunlik ishlar & xizmatlar birjasi (MVP) | HTML5 / CSS3 / Vanilla JS | ⚡ Tayyor | [🌐 Jonli Demo](https://afzalbek-dev.github.io/tezish-webapp/) \| [👉 Gumroad (9)](https://gumroad.com) \| [Telegram](https://t.me/Obunachi786) |
 | 🎬 **Kino Bot Pro** | Filmlar qidiruvi, VIP obuna & avto-to‘lov | Python / Aiogram / SQLite | ⚡ Tayyor | [👉 Repozitoriy](https://github.com/afzalbek-dev/kino-bot) \| [Buyurtma](https://t.me/Obunachi786) |
 | 👑 **VIP Subscription Bot** | Kanal/guruh obunalarini boshqarish & Click/Payme | Python / Aiogram / Payments | ⚡ Tayyor | [👉 Repozitoriy](https://github.com/afzalbek-dev/vip-subscription-bot) \| [Buyurtma](https://t.me/Obunachi786) |
 | 🍽 **Restaurant Job Bot** | Restoranlar uchun kadrlar va ish topish birjasi | Python / Aiogram / DB | ⚡ Tayyor | [👉 Repozitoriy](https://github.com/afzalbek-dev/restaurant-job-bot) \| [Buyurtma](https://t.me/Obunachi786) |
