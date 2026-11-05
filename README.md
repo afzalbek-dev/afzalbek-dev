@@ -3,71 +3,70 @@
 # 🚀 Afzalbek Abduraimov | Full-Stack & AI Systems Architect
 
 <p align="center">
-  <b>Telegram Botlar • Telegram WebApp (TMA) • Avtonom AI Agentlar • Yuqori Yuklamali Veb Tizimlar</b>
+  <b>Telegram Bots • Telegram Mini Apps (TMA) • Autonomous AI Agents • High-Load Web & Cloud Systems</b>
 </p>
 
 [![Telegram Direct](https://img.shields.io/badge/Telegram-@Obunachi786-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Obunachi786)
 [![GitHub Repos](https://img.shields.io/badge/Public_Repos-64+-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/afzalbek-dev?tab=repositories)
 [![Gumroad Store](https://img.shields.io/badge/Gumroad-Digital_Store-FF90E8?style=for-the-badge&logo=gumroad&logoColor=black)](https://gumroad.com)
-[![Status: Available](https://img.shields.io/badge/Status-Buyurtmalar_uchun_ochiq_⚡-brightgreen?style=for-the-badge)](https://t.me/Obunachi786)
+[![Status: Available](https://img.shields.io/badge/Status-Available_for_Hire_⚡-brightgreen?style=for-the-badge)](https://t.me/Obunachi786)
 
 ---
 
-### 🎯 "Biznesingizni avtomatlashtiring, yangi startapni noldan quring yoki tayyor tizimni xarid qiling!"
-Assalomu alaykum! Men **Afzalbek Abduraimov** — yuqori yuklamali Telegram WebApp (Mini Apps), savdo va to'lov botlari (Click / Payme / Stars), Google Gemini 3.8 Flash asosidagi avtonom AI sotuv agentlari hamda startaplar uchun to'liq MVP (Minimal Viable Product) yechimlar yaratuvchi dasturchiman.
+### 🎯 "Automate your business workflows, build MVPs from scratch, or get ready-to-deploy digital templates!"
+Hello! I am **Afzalbek Abduraimov** — a Full-Stack Engineer and AI Solutions Architect specializing in scalable Telegram WebApps (Mini Apps), automated payment bots (Telegram Stars, Stripe, Crypto, Click & Payme), autonomous Google Gemini 3.8 Flash AI agents, and complete turnkey MVPs for startups and global enterprises.
 
 </div>
 
 ---
 
-## 🛍️ Tayyor Raqamli Mahsulotlar & Shablonlar (Storefront)
+## 🛍️ Turnkey Digital Products & Templates (Storefront)
 
-Noldan yozishga oylab vaqt va minglab dollar sarflamang! Toza arxitekturali, sinovdan o'tgan tayyor kod bazalarini xarid qiling yoki o'z biznesingizga moslashtirib berishimizni buyurtma qiling:
+Save months of development time and thousands of dollars! Purchase clean, tested, production-grade source code licenses or hire me for custom branded setup and feature implementation:
 
-| Mahsulot | Tavsif & Yo‘nalish | Texnologiya | Holati | Xarid qilish & Aloqa |
+| Product | Focus & Description | Tech Stack | Status | Access & Contact |
 | :--- | :--- | :--- | :---: | :---: |
-| 🤖 **GitHub AI Sales Agent** | Avtonom GitHub savdo va lead konversiya agenti (Gemini 3.8 + Telegram alerts) | Python / Gemini 3.8 / GitHub CLI | ⚡ Yangi 2026 | [👉 Repozitoriy](https://github.com/afzalbek-dev/github-ai-sales-agent) \| [Telegram](https://t.me/Obunachi786) |
-| 🔥 **TeleShop AI** | Telegram Mini App Do'kon & E-Commerce (Telegram Stars & Click/Payme) | HTML5 / CSS3 / Vanilla JS | ⚡ Trend 2026 | [🌐 Jonli Demo](https://afzalbek-dev.github.io/teleshop-tma/) \| [👉 Gumroad ($39)](https://gumroad.com) \| [Telegram](https://t.me/Obunachi786) |
-| 💼 **TEZish WebApp** | Kunlik ishlar & xizmatlar birjasi (Freelance / Jobs MVP) | HTML5 / CSS3 / Vanilla JS | ⚡ Tayyor | [🌐 Jonli Demo](https://afzalbek-dev.github.io/tezish-webapp/) \| [👉 Gumroad ($29)](https://gumroad.com) \| [Telegram](https://t.me/Obunachi786) |
-| 🎬 **Kino Bot Pro** | Filmlar qidiruvi, VIP obuna, kanallar nazorati & avto-to‘lov | Python / Aiogram / SQLite | ⚡ Tayyor | [👉 Repozitoriy](https://github.com/afzalbek-dev/kino-bot) \| [Buyurtma](https://t.me/Obunachi786) |
-| 👑 **VIP Subscription Bot** | Kanal/guruh obunalarini boshqarish & Click/Payme to'lovlari | Python / Aiogram / Payments | ⚡ Tayyor | [👉 Repozitoriy](https://github.com/afzalbek-dev/vip-subscription-bot) \| [Buyurtma](https://t.me/Obunachi786) |
-| 📱 **SMM Panel Platform** | SMM xizmatlari reseller do‘koni, API & Admin boshqaruv | Python / FastAPI / REST API | ⚡ Tayyor | [👉 Repozitoriy](https://github.com/afzalbek-dev/smm-panel) \| [Buyurtma](https://t.me/Obunachi786) |
-| 🍽 **Restaurant Job Bot** | Restoranlar uchun ishchilar va kadrlar topish birjasi | Python / Aiogram / DB | ⚡ Tayyor | [👉 Repozitoriy](https://github.com/afzalbek-dev/restaurant-job-bot) \| [Buyurtma](https://t.me/Obunachi786) |
-| ❤️ **uSevgi Platform** | Tanishuv & ijtimoiy muloqot xizmati (FastAPI backend) | FastAPI / PostgreSQL / Redis | ⚡ Tayyor | [👉 Repozitoriy](https://github.com/afzalbek-dev/usevgi-platform) \| [Buyurtma](https://t.me/Obunachi786) |
+| 🤖 **GitHub AI Sales Agent** | Autonomous lead qualification & sales closing agent for GitHub repos | Python / Gemini 3.8 / GitHub CLI | ⚡ 2026 Release | [👉 Repository](https://github.com/afzalbek-dev/github-ai-sales-agent) \| [Telegram](https://t.me/Obunachi786) |
+| 🔥 **TeleShop AI** | Telegram Mini App E-Commerce Storefront (Telegram Stars & Multilingual) | HTML5 / CSS3 / Vanilla JS | ⚡ Trend 2026 | [🌐 Live Demo](https://afzalbek-dev.github.io/teleshop-tma/) \| [👉 Gumroad ($39)](https://gumroad.com) \| [Telegram](https://t.me/Obunachi786) |
+| 💼 **TEZish WebApp** | Daily Jobs & Local Services Marketplace (Freelance / On-Demand MVP) | HTML5 / CSS3 / Vanilla JS | ⚡ Production Ready | [🌐 Live Demo](https://afzalbek-dev.github.io/tezish-webapp/) \| [👉 Gumroad ($29)](https://gumroad.com) \| [Telegram](https://t.me/Obunachi786) |
+| 👑 **VIP Subscription Bot** | Automated VIP channel membership & recurring payment management | Python / Aiogram / Payments | ⚡ Ready | [👉 Repository](https://github.com/afzalbek-dev/vip-subscription-bot) \| [Inquire](https://t.me/Obunachi786) |
+| 🎬 **Kino Bot Pro** | High-load media streaming & entertainment bot with admin dashboards | Python / Aiogram / SQLite | ⚡ Ready | [👉 Repository](https://github.com/afzalbek-dev/kino-bot) \| [Inquire](https://t.me/Obunachi786) |
+| 📱 **SMM Panel Platform** | Reseller API platform for social media growth services & analytics | Python / FastAPI / REST API | ⚡ Ready | [👉 Repository](https://github.com/afzalbek-dev/smm-panel) \| [Inquire](https://t.me/Obunachi786) |
+| 🍽 **Restaurant Job Bot** | Industry-specific hiring & recruitment platform for hospitality | Python / Aiogram / DB | ⚡ Ready | [👉 Repository](https://github.com/afzalbek-dev/restaurant-job-bot) \| [Inquire](https://t.me/Obunachi786) |
+| ❤️ **uSevgi Platform** | Social networking & dating platform backend with real-time messaging | FastAPI / PostgreSQL / Redis | ⚡ Ready | [👉 Repository](https://github.com/afzalbek-dev/usevgi-platform) \| [Inquire](https://t.me/Obunachi786) |
 
 ---
 
-## 🛠️ Individual Buyurtma Xizmatlari
+## 🛠️ Custom Software Engineering & Consulting Services
 
-Sizning g'oyangiz yoki biznes talablaringiz asosida professional ishlab chiqish xizmatlari:
+Tailored custom development services for startups, businesses, and agency partners:
 
 <div align="left">
 
-### 1. 🤖 Telegram Bot & Telegram WebApp (Mini Apps / TMA)
-* Savdo va do'kon (E-commerce), yetkazib berish va bron qilish botlari
-* **To'lov integratsiyalari:** Click, Payme, Uzum Bank, Telegram Stars va Kripto
-* Zamonaviy dizaynli va tez ishlaydigan Telegram Mini App (TMA) veb-ilovalari
-* Yopiq VIP kanal/guruh obunalarini avtomatlashtirish (muddati tugaganda chiqarish)
-* 💰 *Boshlang'ich narxi: $100 dan boshlanadi*
+### 1. 🤖 Telegram Mini Apps (TMA) & High-Load Bots
+* Custom e-commerce, delivery, booking, and loyalty WebApps inside Telegram
+* **Payment Gateways:** Telegram Stars, Stripe, Crypto (TON/USDT), Click, Payme
+* Automated subscriber lifecycle: paywalling, invite link rotation, instant revocation
+* 💰 *Starting at $100*
 
-### 2. 🧠 Avtonom AI Agentlar & Botlar (Gemini 3.8 / LLM)
-* Mijozlarga 24/7 javob beruvchi va sotuvni yakunlovchi AI operatorlar
-* Buyurtma shakllantirish, CRM va Google Sheets bilan avtomatik sinxronizatsiya
-* Shaxsiy uslubda, insoniy va aniq muzokara olib borish funksiyasi
-* 💰 *Boshlang'ich narxi: $120 dan boshlanadi*
+### 2. 🧠 Autonomous AI Agents & Conversational Bots (Gemini 3.8 / LLMs)
+* 24/7 AI-driven customer support, sales negotiation, and qualification bots
+* Automated order capture, CRM sync (Notion, Google Sheets, Airtable, HubSpot)
+* Natural language voice/text workflows tailored to your brand voice
+* 💰 *Starting at $120*
 
-### 3. 🌐 Veb-Saytlar, Dashboard & Startap MVP Yechimlar
-* Konversiyali va zamonaviy Landing Page (kompyuter va mobil moslashuvchan)
-* Boshqaruv panellari (Admin Dashboard, CRM, Analitika)
-* Yuqori yuklamali FastAPI / Django / PostgreSQL backend arxitekturasi
-* 1-2 haftada investitsiya yoki bozorga chiqarish uchun tayyor MVP mahsulot
-* 💰 *Boshlang'ich narxi: $150 dan boshlanadi*
+### 3. 🌐 Full-Stack Web, Admin Dashboards & Startup MVPs
+* High-converting modern Landing Pages (fully responsive, desktop & mobile optimized)
+* Custom Admin Dashboards, Analytics Hubs, and Internal Tools
+* Scalable backend architecture built with FastAPI, Django, and PostgreSQL
+* Fast turnaround: complete, functional MVP ready for investors or users in 7–14 days
+* 💰 *Starting at $150*
 
 </div>
 
 ---
 
-## 💻 Texnologiyalar & Stek (Tech Stack)
+## 💻 Technical Stack & Tooling
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -84,20 +83,21 @@ Sizning g'oyangiz yoki biznes talablaringiz asosida professional ishlab chiqish 
 
 ---
 
-## 📬 Bog‘lanish va Buyurtma Berish
+## 📬 Contact & Hire
 
-Yangi loyiha boshlamoqchimisiz, mavjud tizimingizni avtomatlashtirish kerakmi yoki tayyor kod qidiryapsizmi?  
-To‘g‘ridan-to‘g‘ri yozing, tez fursatda javob beraman:
+Looking to build a new product, automate your operations, or purchase licensed source code?  
+Send me a direct message — I respond quickly:
 
 <p align="center">
   <a href="https://t.me/Obunachi786">
-    <img src="https://img.shields.io/badge/Telegram_Orqali_Bog'lanish-@Obunachi786-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Message_on_Telegram-@Obunachi786-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
 
 <div align="center">
-  <p>👤 <b>Muallif:</b> Afzalbek Abduraimov</p>
-  <p>✈️ <b>Telegram:</b> <a href="https://t.me/Obunachi786">@Obunachi786</a> (24/7 ochiq)</p>
-  <p>📞 <b>Telefon:</b> +998 90 873 40 05 / +998 97 691 00 37</p>
-  <p>📍 <b>Manzil:</b> Toshkent / Qashqadaryo, O'zbekiston</p>
+  <p>👤 <b>Engineer:</b> Afzalbek Abduraimov</p>
+  <p>✈️ <b>Telegram:</b> <a href="https://t.me/Obunachi786">@Obunachi786</a> (24/7 Available)</p>
+  <p>📞 <b>Phone / WhatsApp:</b> +998 90 873 40 05 / +998 97 691 00 37</p>
+  <p>🌐 <b>GitHub:</b> <a href="https://github.com/afzalbek-dev">@afzalbek-dev</a></p>
+  <p>📍 <b>Location:</b> Tashkent, Uzbekistan (Open for remote & global contracts)</p>
 </div>
