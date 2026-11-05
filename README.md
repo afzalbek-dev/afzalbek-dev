@@ -25,6 +25,7 @@ Salom! Men Afzalbek — yuqori yuklamali Telegram botlar, Telegram WebApp mini-i
 
 | Mahsulot | Yo‘nalish | Texnologiya | Holati | Xarid qilish / Aloqa |
 | :--- | :--- | :--- | :---: | :---: |
+| 🤖 **GitHub AI Sales Agent** | Avtonom GitHub savdo & lead konversiya agenti (Gemini 3.8 + Telegram) | Python / Gemini 3.8 / GitHub CLI | ⚡ Yangi 2026 | [👉 Repozitoriy](https://github.com/afzalbek-dev/github-ai-sales-agent) \| [Telegram](https://t.me/Obunachi786) |
 | 🔥 **TeleShop AI** | Telegram Mini App Do'kon & E-Commerce (Yulduzlar & Click/Payme) | HTML5 / CSS3 / Vanilla JS | ⚡ Trend 2026 | [🌐 Jonli Demo](https://afzalbek-dev.github.io/teleshop-tma/) \| [👉 Gumroad (9)](https://gumroad.com) \| [Telegram](https://t.me/Obunachi786) |
 | 💼 **TEZish WebApp** | Kunlik ishlar & xizmatlar birjasi (MVP) | HTML5 / CSS3 / Vanilla JS | ⚡ Tayyor | [🌐 Jonli Demo](https://afzalbek-dev.github.io/tezish-webapp/) \| [👉 Gumroad (9)](https://gumroad.com) \| [Telegram](https://t.me/Obunachi786) |
 | 🎬 **Kino Bot Pro** | Filmlar qidiruvi, VIP obuna & avto-to‘lov | Python / Aiogram / SQLite | ⚡ Tayyor | [👉 Repozitoriy](https://github.com/afzalbek-dev/kino-bot) \| [Buyurtma](https://t.me/Obunachi786) |
